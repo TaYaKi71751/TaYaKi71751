@@ -26,8 +26,17 @@
 <p align="center">
   <img 
     alt="Twitter Simple Badge"
-    src="https://badgen.net/badge/icon/twitter?icon=twitter&label"
+    src="https://badgen.net/badge/icon/@Taiki_desuyo@twitter.com?icon=twitter&label"
     href="https://twitter.com/Taiki_desuyo" />
+</p>
+
+<!-- planet.moe Simple Badge -->
+<p align="center">
+  <img 
+    rel="me"
+    alt="Mastodon (planet.moe) Simple Badge"
+    src="https://badgen.net/badge/icon/@Taiki_desuyo@planet.moe?icon=mastodon&label&color=959"
+    href="https://planet.moe/@Taiki_desuyo" />
 </p>
 
 <!-- Latest Confirmed Cases -->
