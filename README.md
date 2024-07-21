@@ -43,16 +43,6 @@
     href="https://planet.moe/@Taiki_desuyo" />
  </a>
 
-<!-- twingyeo.kr Simple Badge -->
- <a href="https://twingyeo.kr/@Taiki_desuyo">
-  <img 
-    rel="me"
-    alt="Mastodon (twingyeo.kr) Simple Badge"
-    src="https://raw.githubusercontent.com/TaYaKi71751/profile-badge/main/twingyeo.kr.svg"
-    href="https://twingyeo.kr/@Taiki_desuyo" />
- </a>
-</p>
-
 <!-- Misskey Simple Badge -->
 <p align="center">
 <!-- daepi.so Simple Badge -->
