@@ -14,14 +14,6 @@
     href="https://discord.com/users/395213788481323012" />
 </p>
 
-<!-- Discord Simple Badge -->
-<p align="center">
-  <img 
-    alt="Discord Simple Badge"
-    src="https://dcbadge.vercel.app/api/shield/395213788481323012?style=flat" 
-    href="https://discord.com/users/395213788481323012" />
-</p>
-
 <!-- Latest Confirmed Cases -->
 <p align="center">
  <a href="http://ncov.mohw.go.kr/en">
