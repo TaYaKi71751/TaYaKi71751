@@ -22,48 +22,6 @@
     href="https://discord.com/users/395213788481323012" />
 </p>
 
-<!-- Twitter Simple Badge -->
-<p align="center">
- <a href="https://twitter.com/Taiki_desuyo">
-  <img 
-    alt="Twitter Simple Badge"
-    src="https://badgen.net/badge/icon/@Taiki_desuyo@twitter.com?icon=twitter&label"
-    href="https://twitter.com/Taiki_desuyo" />
- </a>
-</p>
-
-<!-- Mastodon Simple Badge -->
-<p align="center">
-<!-- planet.moe Simple Badge -->
- <a href="https://planet.moe/@Taiki_desuyo">
-  <img 
-    rel="me"
-    alt="Mastodon (planet.moe) Simple Badge"
-    src="https://raw.githubusercontent.com/TaYaKi71751/profile-badge/main/planet.moe.svg"
-    href="https://planet.moe/@Taiki_desuyo" />
- </a>
-
-<!-- Misskey Simple Badge -->
-<p align="center">
-<!-- daepi.so Simple Badge -->
- <a href="https://daepi.so/@Taiki_desuyo">
-  <img 
-    rel="me"
-    alt="Misskey (daepi.so) Simple Badge"
-    src="https://raw.githubusercontent.com/TaYaKi71751/profile-badge/main/daepi.so.svg"
-    href="https://daepi.so/@Taiki_desuyo" />
- </a>
-
-<!-- stella.place Simple Badge -->
- <a href="https://stella.place/@Taiki_desuyo">
-  <img 
-    rel="me"
-    alt="Misskey (stella.place) Simple Badge"
-    src="https://raw.githubusercontent.com/TaYaKi71751/profile-badge/main/stella.place.svg"
-    href="https://stella.place/@Taiki_desuyo" />
- </a>
-</p>
-
 <!-- Latest Confirmed Cases -->
 <p align="center">
  <a href="http://ncov.mohw.go.kr/en">
