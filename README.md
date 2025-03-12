@@ -8,10 +8,11 @@
 
 <!-- Discord Detail Badge -->
 <p align="center">
+ <a href="https://discord.com/users/395213788481323012">
   <img
     alt="Discord Detail Badge"
-    src="https://lanyard-profile-readme.vercel.app/api/395213788481323012"
-    href="https://discord.com/users/395213788481323012" />
+    src="https://lanyard-profile-readme.vercel.app/api/395213788481323012" />
+ </a>
 </p>
 
 <!-- Latest Confirmed Cases -->
